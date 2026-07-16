@@ -26,6 +26,8 @@ public class RepasoClase {
         System.out.println("La edad del estudiante es: "+edad);
 
         System.out.println("La estatura del estudiante: "+estatura);
+        
+        scanner.close();
     }
     
 }
